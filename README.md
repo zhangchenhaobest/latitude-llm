@@ -1,3 +1,29 @@
+# latitude-llm
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+Open-source observability for AI agents. Find where your agents fail, dispatch your coding agent to fix it, and verify the fix against real traces.
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+面向 AI Agent 的开源可观测性工具，定位失败点、派编码 Agent 修复并基于真实轨迹验证。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 <p align="center">
   <img src="docs/assets/readme/readme-banner.png?raw=true" alt="Latitude — self-healing AI agents" width="100%" />
 </p>
